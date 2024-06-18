@@ -1,0 +1,4 @@
+#Golang 
+.env
+go.mod
+.DS_Store
